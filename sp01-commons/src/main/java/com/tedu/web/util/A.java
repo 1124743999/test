@@ -1,5 +1,7 @@
 package com.tedu.web.util;
 
-public interface A {
+public class A {
+
+
 
 }
